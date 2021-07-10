@@ -8,6 +8,7 @@ https://elmas3.github.io/mao-seminar/
 エルマス
 わかばちゃん
 齋藤先生
+ブラックジャック先生
 
 # ディレクトリ構成
 ```
