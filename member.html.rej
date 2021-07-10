@@ -1,0 +1,9 @@
+diff a/member.html b/member.html	(rejected hunks)
+@@ -43,6 +43,7 @@
+         <h2>Research Student</h2>
+         <img src="images/icon_wakaba.jpg" alt="わかば">
+         <p>aaa</p>
++        <p>bbbd</p>
+       </div>
+     </div>
+ 
